@@ -1,0 +1,3 @@
+class Junior
+
+end
