@@ -1,0 +1,3 @@
+class Tiffany
+    
+end
